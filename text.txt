@@ -1,2 +1,3 @@
-password=Me3vMvBPmta.V*cqhxcqB6x.tY6ajh.Y
+password="Me3vMvBPmta.V*cqhxcqB6x.tY6ajh.Y"
+password=mypasswordtest
 
